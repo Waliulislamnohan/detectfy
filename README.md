@@ -1,1 +1,1 @@
-# detectfy
+# Nextjs-boilerplate
